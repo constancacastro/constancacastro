@@ -22,4 +22,4 @@
           
 </p>
 
-[![Constança's GitHub stats](https://github-readme-stats.vercel.app/api?username=constancacastro)](https://github.com/constancacastro/github-readme-stats)
+![Constança's GitHub stats](https://github-readme-stats.vercel.app/api?username=constancacastro&hide=contribs,prs)
