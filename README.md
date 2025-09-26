@@ -26,6 +26,3 @@
 <a href="https://github.com/constancacastro/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=constancacastro&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=onedark" />
 </a>
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
