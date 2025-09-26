@@ -2,7 +2,7 @@
 
 - 👂🏻 My name is Constança;
 - 💬 Ask me about everything!
-- 📫 How to reach me: Instagram (constanca_castro) or LinkedIn (www.linkedin.com/in/constança-castro11)!
+- 📫 How to reach me: Instagram (https://www.instagram.com/constanca_castro/) or LinkedIn (www.linkedin.com/in/constança-castro11)!
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
